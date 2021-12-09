@@ -8,6 +8,7 @@ include('db.php');
   <title>성적 목록</title>
 </head>
 <body>
+  <a href="./insertform.php" >추가</a><br>
     <table border="1" cellpadding="1" cellspacing="0">
         <thead>
             <tr>
